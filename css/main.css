@@ -126,7 +126,7 @@ ul li {
 	text-decoration:none;
 	text-transform:uppercase;
 	letter-spacing:7px;
-	/* background: #cd003a; */
+	background: #ce0518;
 	position: absolute;
 	top: 0px;
 	bottom: 0px;
@@ -184,7 +184,7 @@ ul li {
 	text-transform: uppercase;
 }
 .navigation a:hover {
-	color: #cd003a !important;
+	color: #ffffff !important;
 }
 .nav-toggle {
 	display: none;
